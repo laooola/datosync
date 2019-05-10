@@ -1,6 +1,6 @@
 {
   "name": "datosync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple tool to pull, diff and synchronize dato cms models and fields",
   "keywords": [
     "diff",
