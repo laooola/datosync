@@ -1329,14 +1329,7 @@
         "relationships": {
           "description": "JSON API links",
           "type": "object",
-          "required": [
-            "menu_items",
-            "item_types",
-            "account",
-            "users",
-            "roles",
-            "active_plan"
-          ],
+          "required": ["menu_items", "item_types", "account", "users", "roles", "active_plan"],
           "additionalProperties": false,
           "properties": {
             "account": {
@@ -4320,11 +4313,7 @@
               },
               "meta": {
                 "type": "object",
-                "required": [
-                  "total_count",
-                  "uploaded_bytes",
-                  "uploadable_bytes"
-                ],
+                "required": ["total_count", "uploaded_bytes", "uploadable_bytes"],
                 "additionalProperties": false,
                 "properties": {
                   "total_count": {
