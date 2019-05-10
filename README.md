@@ -1,5 +1,7 @@
 # DatoSync
 
+[![Build Status](https://travis-ci.org/laooola/datosync.svg?branch=master)](https://travis-ci.org/laooola/datosync)
+
 A simple tool to pull, diff and synchronize [DatoCMS](https://www.datocms.com) models and fields.
 
 ## Usage
