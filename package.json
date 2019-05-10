@@ -11,7 +11,7 @@
     "models",
     "fields"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "author": "Patrick Schedler",
   "repository": {
     "type": "git",
