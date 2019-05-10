@@ -19,6 +19,9 @@
   },
   "bugs": "https://github.com/laooola/datosync/issues",
   "bin": "./bin/datosync",
+  "engines": {
+    "node": ">=7.6.0"
+  },
   "scripts": {
     "test": "jest"
   },
